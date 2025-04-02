@@ -48,6 +48,9 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Intro PyTorch tensors](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/pytorch_tensors.ipynb) 
 * [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/a_perceptron_in_PyTorch.ipynb)
 
+### PyTorch
+* [Tutorials](https://pytorch.org/tutorials/beginner/basics/intro.html)
+* [API](https://pytorch.org/docs/stable/index.html)
 
 ### Assignment 
 * [Assignment: MLP in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb)
