@@ -56,3 +56,15 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Assignment: MLP in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb)
 
 </details>
+<details>
+<summary> <H2> Woche 4 - Training NNs II </H2><BR></summary>
+
+### Lab
+* [Data Loader and GPU usage](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/PyTorch_DataLoderandGPU.ipynb)
+* [TensorBoard with PyTorch on Colab tutorial](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/tensorboard_with_pytorch.ipynb)
+* [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/autograd_tutorial.ipynb)
+
+### Assignment 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
+
+</details>
