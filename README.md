@@ -33,7 +33,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Single Neuron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)
 
 ### Aufgabe 2
-* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb)
+* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb) 
 
 </details>
 
@@ -53,6 +53,18 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [API](https://pytorch.org/docs/stable/index.html)
 
 ### Assignment 
-* [Assignment: MLP in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb)
+* [Assignment: MLP in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch_solution.ipynb)
+
+</details>
+<details>
+<summary> <H2> Woche 4 - Training NNs II </H2><BR></summary>
+
+### Lab
+* [Data Loader and GPU usage](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/PyTorch_DataLoderandGPU.ipynb)
+* [TensorBoard with PyTorch on Colab tutorial](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/tensorboard_with_pytorch.ipynb)
+* [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/autograd_tutorial.ipynb)
+
+### Assignment 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
 
 </details>
