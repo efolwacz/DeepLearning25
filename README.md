@@ -70,16 +70,15 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 </details>
 <details>
 <summary> <H2> Woche 5 - CNNs  </H2><BR></summary>
-  
-
 ### Lab
-* [Assignment: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/cifar10_CNN_solution.ipynb)
+* [AlexNet Implementation in PyTorch](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb)
 
 ### Get State of the Art Models: 
 * [Papers with Code](https://paperswithcode.com/sota)
 * [Hugging Face Models](https://huggingface.co/models)
 
 ### Assignment
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb) 
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb)
+
 
 </details>
