@@ -70,6 +70,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 </details>
 <details>
 <summary> <H2> Woche 5 - CNNs  </H2><BR></summary>
+  
 ### Lab
 * [AlexNet Implementation in PyTorch](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb)
 
