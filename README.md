@@ -75,6 +75,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [AlexNet Implementation in PyTorch](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb)
 
 ### Get State of the Art Models: 
+* [PyTorch Model Zoo](https://pytorch.org/vision/stable/models.html)
 * [Papers with Code](https://paperswithcode.com/sota)
 * [Hugging Face Models](https://huggingface.co/models)
 
