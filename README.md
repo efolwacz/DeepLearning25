@@ -52,7 +52,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Tutorials](https://pytorch.org/tutorials/beginner/basics/intro.html)
 * [API](https://pytorch.org/docs/stable/index.html)
 
-### Assignment 
+### Aufgabe 3
 * [Assignment: MLP in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_3/Assignment_Basic_MLP_in_Pytorch_solution.ipynb)
 
 </details>
@@ -64,7 +64,23 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [TensorBoard with PyTorch on Colab tutorial](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/tensorboard_with_pytorch.ipynb)
 * [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/autograd_tutorial.ipynb)
 
-### Assignment 
+### Aufgabe 4
 * [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
+
+</details>
+<details>
+<summary> <H2> Woche 5 - CNNs  </H2><BR></summary>
+  
+### Lab
+* [AlexNet Implementation in PyTorch](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb)
+
+### Get State of the Art Models: 
+* [PyTorch Model Zoo](https://pytorch.org/vision/stable/models.html)
+* [Papers with Code](https://paperswithcode.com/sota)
+* [Hugging Face Models](https://huggingface.co/models)
+
+### Aufgabe 5
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb)
+
 
 </details>
