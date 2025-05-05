@@ -84,3 +84,16 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 
 </details>
+
+<details>
+<summary> <H2>Woche 6 - RNNs </H2><BR></summary>
+
+
+### Lab
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
+
+### Assignments
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_6/Assignemnt_stock-price.ipynb)
+
+
+</details>
