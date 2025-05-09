@@ -80,7 +80,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Hugging Face Models](https://huggingface.co/models)
 
 ### Aufgabe 5
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb)
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo_solution.ipynb)
 
 
 </details>
