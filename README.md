@@ -103,7 +103,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 
 ### Lab
-* [Transformers from Scratch in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/transformer_tutorial.ipynb)
+* X [Transformers from Scratch in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/transformer_tutorial.ipynb)
 * [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/pre_trained_vt.ipynb)
 * [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/fine_tune_pre_trained_transformer.ipynb)
 
