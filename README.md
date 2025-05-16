@@ -65,7 +65,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/autograd_tutorial.ipynb)
 
 ### Aufgabe 4
-* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization_solution.ipynb)
 
 </details>
 <details>
