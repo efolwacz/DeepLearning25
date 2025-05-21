@@ -123,4 +123,4 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
 </details>
 
-<details>
+
