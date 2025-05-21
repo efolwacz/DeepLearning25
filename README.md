@@ -111,3 +111,16 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 
 
 </details>
+
+<details>
+<summary> <H2>Woche 8 - Semi-, Self- and Un-Supervised Training | Autoencoders </H2><BR></summary>
+  
+### Links:
+* [PyTorch augmentation transformations](https://pytorch.org/vision/stable/transforms.html)
+* [PyTorch AutoAugmentation](https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html)
+
+### Assignent
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
+</details>
+
+<details>
