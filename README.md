@@ -33,7 +33,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Single Neuron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/A_simple_Perceptron_in_NumPy.ipynb)
 
 ### Aufgabe 2
-* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb) 
+* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_2/Multi_Class_Perceptrons_solution.ipynb)
 
 </details>
 
@@ -65,7 +65,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/autograd_tutorial.ipynb)
 
 ### Aufgabe 4
-* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) 
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_4/Assignment_CIFAR10_MLP_optimization_solution.ipynb)
 
 </details>
 <details>
@@ -80,7 +80,47 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Hugging Face Models](https://huggingface.co/models)
 
 ### Aufgabe 5
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb)
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_5/Assignment_PyTorch_Model_Zoo_solution.ipynb)
 
 
 </details>
+
+<details>
+<summary> <H2>Woche 6 - RNNs </H2><BR></summary>
+
+
+### Lab
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
+
+### Assignments
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_6/Assignemnt_stock-price.ipynb)
+
+
+</details>
+
+<details>
+<summary> <H2>Woche 7 - Transformers </H2><BR></summary>
+
+
+### Lab
+* [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/pre_trained_vt.ipynb)
+* [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/fine_tune_pre_trained_transformer.ipynb)
+
+### Assignments
+* [Transformer on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/Transformer_CIFAR10.ipynb)
+
+
+</details>
+
+<details>
+<summary> <H2>Woche 8 - Semi-, Self- and Un-Supervised Training | Autoencoders </H2><BR></summary>
+  
+### Links:
+* [PyTorch augmentation transformations](https://pytorch.org/vision/stable/transforms.html)
+* [PyTorch AutoAugmentation](https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html)
+
+### Assignent
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
+</details>
+
+
