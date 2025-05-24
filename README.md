@@ -107,7 +107,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/fine_tune_pre_trained_transformer.ipynb)
 
 ### Assignments
-* [Transformer on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/Transformer_CIFAR10.ipynb)
+* [Transformer on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/Transformer_CIFAR10.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_7/Transformer_CIFAR10_solution.ipynb)
 
 
 </details>
