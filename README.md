@@ -123,4 +123,13 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
 </details>
 
+<details>
+<summary> <H2>Woche 9 - Generative Models I </H2><BR></summary>
+  
+### Lab:
+* [Variational AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/variationalautoencoder_pytorch.ipynb)
+* [Example: GAN on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/DCGAN_CIFAR10.ipynb)
 
+### Assignent
+* [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/assignment_mnistGAN.ipynb) 
+</details>
