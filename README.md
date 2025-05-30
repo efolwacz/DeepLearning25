@@ -120,7 +120,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [PyTorch AutoAugmentation](https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html)
 
 ### Assignent
-* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) 
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_8/Assignment_AE_MNIST_solution.ipynb) 
 </details>
 
 <details>
