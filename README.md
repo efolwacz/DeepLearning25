@@ -131,7 +131,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS25
 * [Example: GAN on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/DCGAN_CIFAR10.ipynb)
 
 ### Assignent
-* [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/assignment_mnistGAN.ipynb) 
+* [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/assignment_mnistGAN.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning25/blob/main/week_9/assignment_mnistGAN_solution.ipynb)
 </details>
 
 <details>
